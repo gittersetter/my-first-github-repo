@@ -1,1 +1,5 @@
-My feature file created remotely.
+My feature file created remotely and updated locally.
+
+This is a new line in the same file.
+
+New line near botom.
